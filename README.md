@@ -1,13 +1,18 @@
-### Oi! Sou Wilknis Deyvis 👋
+### Hi there! I'm Wilknis Deyvis 👋
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilknis/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wilknis)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wilknisoliveira@gmail.com)
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilknisoliveira)](https://github.com/anuraghazra/github-readme-stats)
 
-## Algumas tecnologias que venho utilizando:
+<br>
+
+## Some technologies I've been using:
+
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -19,4 +24,4 @@
 
 <br>
 
-Estou disponível para novos trabalhos e desafios, ou ainda bater um papo e trocar experiências 🤝. Posso te ajudar de alguma forma? É só chamar!
+I'm available for new projects and challenges, or even to chat and exchange experience 🤝. Can I help you in any way? Just tell me! 
