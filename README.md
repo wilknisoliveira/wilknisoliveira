@@ -8,6 +8,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilknisoliveira)](https://github.com/anuraghazra/github-readme-stats)
+<p>
 Attention: Most of my contributions are in private repositories and aren't computed here on GitHub.
 
 <br>
